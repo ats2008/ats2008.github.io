@@ -16,9 +16,10 @@ socials:
     google_scholar: https://scholar.google.com/citations?user=FB38LNoAAAAJ&hl=en
 
 interests:
-    - High Energy Physics
-    - Machine Learning
+    - Experimental High Energy Physics
+    - High Performance Computing
     - Theoretical Machine Learning
+    - Machine Learning
     - Computational Physics
     - Statistical Physics
 
